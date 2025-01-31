@@ -1,21 +1,31 @@
-Simple Website with Form Authentication and Navigation
+# ✨ Simple Website with Form Authentication and Navigation ✨
 
-This is a simple website that demonstrates form authentication and navigation through different pages. The design is mobile-friendly and built using HTML, CSS, and JavaScript.
+This is a **simple and mobile-friendly website** that demonstrates **form authentication** and **navigation** across different pages. It is built using **HTML, CSS, and JavaScript**.
 
-Features
+## 🚀 Features
+✔️ **User authentication** via a form  
+✔️ **Smooth navigation** across multiple pages  
+✔️ **Responsive & mobile-friendly** design 📱  
+✔️ **Clean and modern UI** 🎨  
+✔️ **Custom styling** for an enhanced experience  
 
-User authentication via a form
+## 🛠️ Technologies Used
+- **HTML** → Structure of the website  
+- **CSS** → Styling and layout  
+- **JavaScript** → Interactivity and authentication logic  
 
-Navigation across multiple pages
+## 🎨 Styling
+The website follows a **modern and clean design**, featuring:
+- **Smooth CSS animations** for transitions  
+- **Custom fonts & color schemes** 🎨  
+- **A mobile-first approach** with **media queries** 📱  
 
-Mobile-friendly responsive design
+## 🌐 Live Demo
+Check out the live demo here: **[FFPR](https://francistan204.github.io/FFPR/services.html)**  
 
-Clean and simple UI
+## 📥 Installation
+To run this project locally, follow these steps:
 
-Technologies Used
-
-HTML for structure
-
-CSS for styling and layout
-
-JavaScript for interactivity and authentication logic
+```sh
+# Clone the repository
+git clone https://
